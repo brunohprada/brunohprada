@@ -1,4 +1,7 @@
-### Hi there 👋
+# My profile 👋
+
+- :bank: I'm currently working on Banco Bradesco SA.
+- :computer: I'm currently learning JAVA and Springboot.
 
 <!--
 **brunohprada/brunohprada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
